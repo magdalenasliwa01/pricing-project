@@ -2,7 +2,7 @@
 """Final_Project.ipynb
 
 
-#Implementation of Regression Analysis and Prediction of Real Estate Prices with Machine Learning Algorithm
+#Implementation of Regression Analysis and Prediction of Real Estate Prices in Ireland with Machine Learning Algorithm
 
 # Loading data
 """
@@ -12,7 +12,7 @@
 import pandas as pd
 import numpy as np
 import seaborn as sns
-import statsmodels.api as sm # package for many different statistical models
+import statsmodels.api as sm # package for several different statistical models
 from functools import reduce
 
 # %matplotlib inline
