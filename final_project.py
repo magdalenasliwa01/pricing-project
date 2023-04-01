@@ -2,7 +2,7 @@
 """Final_Project.ipynb
 
 
-#Implementation of Regression Analysis and Prediction of Real Estate Prices in Ireland with Machine Learning Algorithm
+#Implementation of Regression Analysis and Prediction of Real Estate Prices in Ireland with Supervised Machine Learning Algorithm
 
 # Loading data
 """
